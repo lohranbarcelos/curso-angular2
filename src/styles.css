@@ -1,0 +1,16 @@
+*{ margin: 0;
+   padding:0;
+   font-family: Helvetica;
+}
+a {color: orange;
+}
+
+body{
+ padding-bottom: 500px;
+}
+ 
+.class{
+   padding-bottom: 1px solid red;
+   padding: 2em;
+   margin-bottom: 1em;
+ }
