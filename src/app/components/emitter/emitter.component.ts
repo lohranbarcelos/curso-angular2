@@ -9,10 +9,9 @@ export class EmitterComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
 
   onChangeNumber(){
-    console.log("Deu certo!")
+    console.log("Deu certo!");
   }
 }
